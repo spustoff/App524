@@ -13,6 +13,6 @@ struct DataManager {
     
     let codeTech: String = "draggable"
     
-    let server1_0: String = "techsupportpro.store/app/ma4str0l4bs"
+    let server1_0: String = "datadriveninsight.online/app/ma4str0l4bs"
     let landing_request: String = "https://app.techsupportpro.store/api/home"
 }
